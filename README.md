@@ -161,7 +161,7 @@ I'm always interested in connecting with other developers, collaborating on proj
 - **GitHub:** [github.com/elishastephen02](https://github.com/elishastephen02)
 - **LinkedIn:** [Connect with me on LinkedIn](https://linkedin.com/in/angenalise-elisha-stephen-6207ba17a)
 - **Email:** elisha.stephens02@gmail.com
-- **Phone:** 0646525652
+- **Phone:** [0646525652]
 
 ---
 
