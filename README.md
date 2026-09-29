@@ -154,14 +154,6 @@ Some areas I've worked with include:
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elishastephen02&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elishastephen02&layout=compact&theme=default)
-
----
-
 # 📫 Let's Connect!
 
 I'm always interested in connecting with other developers, collaborating on projects, and exploring opportunities in software and application development.
