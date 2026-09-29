@@ -23,7 +23,7 @@ My experience includes **C#, .NET, ASP.NET Core MVC, Java, Android development, 
 
 # 🚀 Featured Projects
 
-## 🌧️ Ethekwini Design Rainfall Engine (EDRE)
+## 🌧️ [Ethekwini Design Rainfall Engine (EDRE)](https://edre.ethekwinifews.durban/) 
 
 **A web-based rainfall data and storm analysis application developed for engineering use.**
 
@@ -43,6 +43,8 @@ EDRE is an **ASP.NET Core MVC** application designed to provide engineers with a
 
 ### Technologies
 `C#` `ASP.NET Core MVC` `.NET` `Entity Framework Core` `SQL Server` `Azure` `Leaflet` `JavaScript` `HTML` `CSS`
+
+Users must register their account and accept the terms and conditions before an admin can approve it. Once approved, users will be notified by email. 
 
 ---
 
